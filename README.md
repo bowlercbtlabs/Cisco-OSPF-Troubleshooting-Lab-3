@@ -1,8 +1,7 @@
 # Cisco OSPF Troubleshooting - Lab 3
 
 
-### 
--Please Note: The Frame Relay Switch is setup correctly and there is no need to troubleshoot it.
+### Please Note: The Frame Relay Switch is setup correctly and there is no need to troubleshoot it.
 
 
 ## Trouble Ticket #1
